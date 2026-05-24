@@ -9,3 +9,9 @@ Anggota
 Rifqi Fadhila Sulaeman	  202343502440
 Diar Julianto Rahadi	  202343502392
 Ahmad Alfiansyah Halim	  202343502545
+
+URL Demo:
+https://kelompok4-project-data-mining-x6-o.vercel.app
+
+Link Repository:
+https://github.com/diarjr198/Kelompok4-Project-Data-Mining-X6O
