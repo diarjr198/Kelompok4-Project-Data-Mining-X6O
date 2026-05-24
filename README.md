@@ -8,6 +8,9 @@
 - Diar Julianto Rahadi — 202343502392
 - Ahmad Alfiansyah Halim — 202343502545
 
+## Demo Deployment
+- Vercel: https://kelompok4-project-data-mining-x6-o.vercel.app
+
 ## Struktur Repository
 Repository ini berisi:
 - `UI/`: aplikasi dashboard prediksi harga properti (Next.js + TypeScript)
