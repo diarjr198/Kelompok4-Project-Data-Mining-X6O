@@ -8,18 +8,21 @@ const MEMBERS = [
     name: "Rifqi Fadhila Sulaeman",
     nim: "202343502440",
     initial: "R",
+    role: "Anggota",
     color: "from-indigo-500 to-violet-600",
   },
   {
     name: "Diar Julianto Rahadi",
     nim: "202343502392",
     initial: "D",
+    role: "Anggota",
     color: "from-sky-500 to-indigo-600",
   },
   {
     name: "Ahmad Alfiansyah Halim",
     nim: "202343502545",
     initial: "A",
+    role: "Anggota",
     color: "from-violet-500 to-fuchsia-600",
   },
 ];
