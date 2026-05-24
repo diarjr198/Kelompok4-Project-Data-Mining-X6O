@@ -2,6 +2,12 @@
 
 Dashboard analitik dan prediksi harga rumah Tangerang Selatan menggunakan Machine Learning.
 
+## Repository
+- GitHub: https://github.com/diarjr198/Kelompok4-Project-Data-Mining-X6O
+
+## Demo Deployment
+- Vercel: https://kelompok4-project-data-mining-x6-o.vercel.app
+
 ## Stack
 - **Next.js 14** (App Router)
 - **TypeScript**

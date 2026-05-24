@@ -8,6 +8,9 @@
 - Diar Julianto Rahadi — 202343502392
 - Ahmad Alfiansyah Halim — 202343502545
 
+## Repository
+- GitHub: https://github.com/diarjr198/Kelompok4-Project-Data-Mining-X6O
+
 ## Demo Deployment
 - Vercel: https://kelompok4-project-data-mining-x6-o.vercel.app
 
